@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dh322c4tf/image/upload/v1706791330/portfolio-images/Software_Developer_jbi4ht.png" alt="banner"/>
 
-<h1 align="center">Hi 👋, I'm Milad Amiri</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet Koshti</h1>
 <h3 align="center">A passionate frontend developer from Earth</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coder"/>
